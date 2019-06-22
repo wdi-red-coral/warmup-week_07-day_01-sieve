@@ -1,6 +1,9 @@
 const getPrimes = function(rangeLimit) {
   // Create your range, starting at two and ending at the given limit.
+  //make loop start at 2 end the loops at rangeLimite
 
+
+  
   // The algorithm consists of repeating the following over and over:
 
     // take the next available unmarked number in your list (it is prime)
