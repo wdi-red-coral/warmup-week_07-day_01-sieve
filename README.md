@@ -23,4 +23,4 @@ ____
 
 #### The sieve in action:
 
-![Sieve of erasothenes in action](https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif)
+![Website](https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif)
